@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "IdentityWallet",
+    "usesIcloudStorage":true,
+    "slug": "IdentityWallet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Identity-wallet-app-logo.png",
+    "splash": {
+      "image": "./assets/splash/splash_new.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#663792"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sauravbalodi1.IdentityWallet"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Identity-wallet-app-logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sauravbalodi1.IdentityWallet"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

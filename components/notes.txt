@@ -1,0 +1,19 @@
+
+
+xcodebuild archive -scheme IdentityWallet -sdk iphoneos -allowProvisioningUpdates -archivePath /Users/nityaarora/new_version/other/frontend_trunk/trunk_try/ios/ArchiveIdentity.xcarchive
+
+
+Id11, id12, id13—> Marketplace
+1. QUESTION STORE REVIEW — Checkboxes option still in DB —> Multiselect should be changed to dropdown (check checkbox style as well)
+Data valuation not insufficient
+
+
+
+Future
+
+1. Questions — use space better+ stack questions 
+2. Widget that has questions
+3. Easy average valuation metric/unsupervised learning based for initial sets of users 
+4. Discuss question algorithm + how data consistency is being added in
+5. Deactivation is not deleting all user data
+6. React native picker
